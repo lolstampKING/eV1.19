@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        " D ",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "dn_ender8:die"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "dn_ender8:die_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,1 @@
+// thanks too https://crafting.thedestruc7i0n.ca for loot tables
