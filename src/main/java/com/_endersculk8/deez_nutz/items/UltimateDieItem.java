@@ -37,5 +37,4 @@ public class UltimateDieItem extends Item {
         }
         return super.useOnEntity(stack, user, entity, hand);
     }
-    }
 }
